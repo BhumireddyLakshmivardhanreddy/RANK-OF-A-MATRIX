@@ -27,6 +27,6 @@ print(rank)
 ![rank](https://github.com/BhumireddyLakshmivardhanreddy/RANK-OF-A-MATRIX/assets/148514637/052fef22-7444-40e7-9a74-2c114bfedb24)
 
 
-##Reult:
+## Reult:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
